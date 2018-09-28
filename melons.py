@@ -1,7 +1,7 @@
 """Classes for melon orders."""
 
 class AbstractMelonOrder():
-    ""
+    
     base_price = 5
     country_code="USA"
 
